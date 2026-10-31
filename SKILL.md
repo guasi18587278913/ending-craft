@@ -31,7 +31,7 @@ description: "为完整文章、口播稿或零散想法选择并生成合适的
 2. 阅读 [原页指导与边界](references/source-guidance.md) 的检查与“不照单全收”部分；同轮已读且未变的内容复用。
 3. 只深读有材料支持、仍可能合适或尚不能判断的详细条目。从技能目录运行 `python3 scripts/read_methods.py --method 7 16`，也可直接定位索引所链接文件中的对应编号；完整说明读完再写。脚本不联网、不调用模型。
 4. 所选变体需要上下文时，按 [案例深化笔记](references/case-notes.md) 的方法对应关系读相关小节。若内置案例仍不足，再回查对应 Wiki 原文，不凭一句例句推断整篇故事。
-5. 若环境有自媒体 Wiki 只读入口，按当地约定通过 `gbrain_sc_media.get_page`（其他客户端可能叫 sc-media-kb）读取 workflows/creation_teacher、concepts/ending_quick、选中 concepts/ending#编号 和 concepts/ending#照单全收。同轮已读内容复用；当前流程与用户要求优先。在线条目与本地编号、名称或变体不一致时，先核对再用，不混接来源。
+5. 默认使用随包完整条目；仅在用户已配置并选择在线 Wiki，或明确要求核对新版时，才按当地约定通过 `gbrain_sc_media.get_page`（其他客户端可能叫 sc-media-kb）读取 workflows/creation_teacher、concepts/ending_quick、选中 concepts/ending#编号 和 concepts/ending#照单全收。同轮已读内容复用；当前流程与用户要求优先。在线条目与本地编号、名称或变体不一致时，先核对再用，不混接来源。
 6. 入口不可用时，明确使用本包的 2026-10-24 核对版继续；不能谎称刚查到在线原文，也不能把检索失败当作没有相关方法。不要直接读取 Wiki 正本文件、无边界扫库或调用收费搜索。需要外部补材料时，先说明计划、渠道、花费并沿用已有授权。
 
 日常按需深读；构建、穷举和验收才通读完整清单。完整覆盖记录见 [coverage.md](references/coverage.md)，原文指纹见 [provenance.json](references/provenance.json)，两者不需每次加载。默认不改 Wiki、不保存个人偏好、不归档或发布。

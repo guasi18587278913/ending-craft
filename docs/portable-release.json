@@ -1,0 +1,112 @@
+{
+  "skill": "ending-craft",
+  "date": "2026-10-31",
+  "baseline_commit": "c64d7800ce3502b20797c7c54ee76b9249a4623e",
+  "mode": "bundled-local-default-optional-wiki",
+  "validation": {
+    "format_exit": 0,
+    "offline_commands": [
+      {
+        "command": "python3 -B scripts/check_integrity.py",
+        "exit_code": 0
+      },
+      {
+        "command": "python3 -B scripts/read_methods.py --method 15",
+        "exit_code": 0
+      }
+    ],
+    "unit_tests_passed": null,
+    "unit_tests_failed": null,
+    "independent_review": "passed",
+    "synthetic_trial": "completed",
+    "trial_summary": "交付主推结尾和一个不同备选，没有凑重复版本；未把尚未测出的改善写成成功结果。",
+    "external_services_executed": false
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "b4260ef4e7955a09c6864754fa9b29f37d91f8fab551580224062574806effc5"
+    },
+    {
+      "path": "README.md",
+      "sha256": "9488a933edd395fba5693521f7abbda21dc950a472b02d54ce61c96ca9428a84"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "14e3010bcee55b0c0a727d08ecc87859efa4dfa0b6340fa7537bfe781f19f671"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "fbc0619f2ddd86f432d9e759cca856ada9b5050585c545fdec2046389bc005b2"
+    },
+    {
+      "path": "docs/portability-validation.md",
+      "sha256": "cef63c60ea6e898b22e23e3e3aa888a38d3183476ca1c1233e87ad4f9aae5670"
+    },
+    {
+      "path": "docs/upload-snapshot.json",
+      "sha256": "1d2daa3ce412fb6d2d003169965bafb283716b81f5ff7d68029bb757b2af659f"
+    },
+    {
+      "path": "examples/first-run-result.md",
+      "sha256": "c4315fedbdf05aab47c2042ed917cf09952ba555b5a4d5316b34301631bd39ab"
+    },
+    {
+      "path": "examples/first-run.md",
+      "sha256": "c35a9cdff20d537e462484eb4c4e94ee0cd1238a97409b417c4f1baec161dd9b"
+    },
+    {
+      "path": "references/case-notes.md",
+      "sha256": "e005f9c08e091e1dde34c46aea7321587a8ad4923f7c3fb390b69bb0c09695f2"
+    },
+    {
+      "path": "references/coverage.md",
+      "sha256": "1f6b2091f7290bd0e0bf3d551104f3226f0d5020a965307d5f24e55c4eafecab"
+    },
+    {
+      "path": "references/method-index.md",
+      "sha256": "5e0ca065cdacebafe222c1b75b61b33c88d754d7f27950e1ae70eb2f11655e05"
+    },
+    {
+      "path": "references/methods/01-judgment.md",
+      "sha256": "400952d8331abb33d0795d5ecf24b348b985eaee531fbe6d084a44325c504d27"
+    },
+    {
+      "path": "references/methods/02-aftertaste.md",
+      "sha256": "856f2b5ce1de293950a040bf682a1bee45e1fff16493d5e7fe935321c0d58782"
+    },
+    {
+      "path": "references/methods/03-engagement.md",
+      "sha256": "f5a05bdbb82be527d4e95161d8a6fa05ce38cdc780fe2e59ddc972bcebaac483"
+    },
+    {
+      "path": "references/methods/04-follow.md",
+      "sha256": "832e96f6e04f7a031003c4dcef2cd64f2bff08b9780afe963d76d766062eaed3"
+    },
+    {
+      "path": "references/methods/05-conversion.md",
+      "sha256": "ca2d31b323f667d7dc11cbb2dde9f5317d185b197a77ecb4a11c07f386621f6b"
+    },
+    {
+      "path": "references/methods/06-signature.md",
+      "sha256": "0b8f08da617d6b8576d84d8fb2607cefa94bebcb9c6be3a2c3efa3fb39a53706"
+    },
+    {
+      "path": "references/provenance.json",
+      "sha256": "2dfb17d657c18886daa63be1640575cf30e38d0160ee43bc2058020d6dd3970c"
+    },
+    {
+      "path": "references/source-guidance.md",
+      "sha256": "1339a9afe6ffe13913d132cccf04c4788689bb7ca9aae842ededcfc1d106056b"
+    },
+    {
+      "path": "scripts/check_integrity.py",
+      "sha256": "c3598129cb8d5ac3f52852b9c80360ab8c44a65c5c7606792ccb0d9cffa4afec"
+    },
+    {
+      "path": "scripts/read_methods.py",
+      "sha256": "dd7ef71b8d7f2236e827c04cf2bd96c7b50a115ec3041ee5d1df12386a6cb181"
+    }
+  ],
+  "manifest_scope": "All distributed files except this manifest; Git commit identifies the complete version."
+}

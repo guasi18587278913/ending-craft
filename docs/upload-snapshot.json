@@ -1,0 +1,84 @@
+{
+  "skill": "ending-craft",
+  "snapshot_date": "2026-10-31T12:42:21.788035+00:00",
+  "source_kind": "installed local skill",
+  "included_source_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "a84a22c701fec9cc4a77d31c4a124680142a7e1fd70d8570ffa20eb5cd66db79",
+      "bytes": 11347
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "fbc0619f2ddd86f432d9e759cca856ada9b5050585c545fdec2046389bc005b2",
+      "bytes": 291
+    },
+    {
+      "path": "references/case-notes.md",
+      "sha256": "e005f9c08e091e1dde34c46aea7321587a8ad4923f7c3fb390b69bb0c09695f2",
+      "bytes": 8344
+    },
+    {
+      "path": "references/coverage.md",
+      "sha256": "1f6b2091f7290bd0e0bf3d551104f3226f0d5020a965307d5f24e55c4eafecab",
+      "bytes": 6561
+    },
+    {
+      "path": "references/method-index.md",
+      "sha256": "5e0ca065cdacebafe222c1b75b61b33c88d754d7f27950e1ae70eb2f11655e05",
+      "bytes": 9712
+    },
+    {
+      "path": "references/methods/01-judgment.md",
+      "sha256": "400952d8331abb33d0795d5ecf24b348b985eaee531fbe6d084a44325c504d27",
+      "bytes": 12837
+    },
+    {
+      "path": "references/methods/02-aftertaste.md",
+      "sha256": "856f2b5ce1de293950a040bf682a1bee45e1fff16493d5e7fe935321c0d58782",
+      "bytes": 6962
+    },
+    {
+      "path": "references/methods/03-engagement.md",
+      "sha256": "f5a05bdbb82be527d4e95161d8a6fa05ce38cdc780fe2e59ddc972bcebaac483",
+      "bytes": 5213
+    },
+    {
+      "path": "references/methods/04-follow.md",
+      "sha256": "832e96f6e04f7a031003c4dcef2cd64f2bff08b9780afe963d76d766062eaed3",
+      "bytes": 4463
+    },
+    {
+      "path": "references/methods/05-conversion.md",
+      "sha256": "ca2d31b323f667d7dc11cbb2dde9f5317d185b197a77ecb4a11c07f386621f6b",
+      "bytes": 8408
+    },
+    {
+      "path": "references/methods/06-signature.md",
+      "sha256": "0b8f08da617d6b8576d84d8fb2607cefa94bebcb9c6be3a2c3efa3fb39a53706",
+      "bytes": 1189
+    },
+    {
+      "path": "references/provenance.json",
+      "sha256": "2dfb17d657c18886daa63be1640575cf30e38d0160ee43bc2058020d6dd3970c",
+      "bytes": 26486
+    },
+    {
+      "path": "references/source-guidance.md",
+      "sha256": "1339a9afe6ffe13913d132cccf04c4788689bb7ca9aae842ededcfc1d106056b",
+      "bytes": 6096
+    },
+    {
+      "path": "scripts/check_integrity.py",
+      "sha256": "c3598129cb8d5ac3f52852b9c80360ab8c44a65c5c7606792ccb0d9cffa4afec",
+      "bytes": 3324
+    },
+    {
+      "path": "scripts/read_methods.py",
+      "sha256": "dd7ef71b8d7f2236e827c04cf2bd96c7b50a115ec3041ee5d1df12386a6cb181",
+      "bytes": 2262
+    }
+  ],
+  "excluded_source_files": [],
+  "verification_scope": "Byte-for-byte copy of included source files; no claim of live provider or writing quality validation."
+}

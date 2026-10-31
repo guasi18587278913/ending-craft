@@ -1,0 +1,4 @@
+interface:
+  display_name: "结尾创作"
+  short_description: "为文章、口播与零散想法选择结尾，保留方法变体并给出可用文字"
+  default_prompt: "用 $ending-craft 为我的文章、口播稿或想法选择合适的收尾方式，给出可直接使用的结尾。"

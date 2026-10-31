@@ -1,0 +1,573 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-10-24",
+  "source_slug": "concepts/ending",
+  "source_content_hash": "dab2e310665a65bb75bc26cb0cd848a15994255ca65f531624f19f068fb89b78",
+  "compiled_truth_sha256": "740867103e46482f0435b36308018ab36dc9b669bb619fa4a837dbf730524143",
+  "method_count": 33,
+  "source_guidance_sha256": "1339a9afe6ffe13913d132cccf04c4788689bb7ca9aae842ededcfc1d106056b",
+  "methods": [
+    {
+      "id": 1,
+      "title": "点破这件事到底是什么",
+      "file": "references/methods/01-judgment.md",
+      "variants": "点破本质、提炼成可复用判断、类比点题。",
+      "materials": "正文已经摆出的具体事实，以及这些事实确实能支持的判断。",
+      "source_refs": [
+        "sources/community/zsxq-22258818412412851",
+        "sources/community/zsxq-14425441511424422"
+      ],
+      "section_sha256": "db22b32ea6e3ac8ffc345a2927f1871d3f57c2bfbffcfe20582839457393d2c9"
+    },
+    {
+      "id": 2,
+      "title": "把要点收成一句话",
+      "file": "references/methods/01-judgment.md",
+      "variants": "一句话总结、金句收尾、要点回顾、分级总结、只给两条路、收成二选一。",
+      "materials": "正文里已经讲清楚的要点或选项。",
+      "source_refs": [
+        "sources/community/zsxq-55521148115241884",
+        "sources/community/xiaoe-8243045c8e0430fc"
+      ],
+      "section_sha256": "c4aabf1e52580d527a18ba1f154ac257f6a4d750b211f8c07f11a25b0e21fba4"
+    },
+    {
+      "id": 3,
+      "title": "从这件事说出更大的意义",
+      "file": "references/methods/01-judgment.md",
+      "variants": "升华到更大的事、品牌愿景收尾、描绘美好预期。",
+      "materials": "具体事件与更大议题之间说得清楚的关系。",
+      "source_refs": [
+        "sources/community/zsxq-82258822481111522",
+        "sources/community/zsxq-55521148115241884"
+      ],
+      "section_sha256": "465fbc8843985b8a2ce93c0b98feaeda3f4a1bfe5a6e72a72fe105d75a80076e"
+    },
+    {
+      "id": 4,
+      "title": "回到开头，给一个回应",
+      "file": "references/methods/01-judgment.md",
+      "variants": "回到开头、回扣观点、回扣前文、揭晓开头悬念、结尾揭晓钩子。",
+      "materials": "开头确实留下的问题或承诺，正文已经完成的回答。",
+      "source_refs": [
+        "sources/community/zsxq-45548814185188448",
+        "sources/community/xiaoe-98f8435173479669"
+      ],
+      "section_sha256": "b146adcec712e45186f66994863ee00210f7565b3f6036dcd852388c747649f2"
+    },
+    {
+      "id": 5,
+      "title": "给一个做得了的下一步",
+      "file": "references/methods/01-judgment.md",
+      "variants": "给一个行动建议、落到实际行动、正向呼吁。",
+      "materials": "与正文直接相关、对目标读者可执行的动作。",
+      "source_refs": [
+        "sources/community/zsxq-82258822481111522",
+        "sources/community/xiaoe-e2568584d78417f5"
+      ],
+      "section_sha256": "32cac06d1c7867627fc221ec7f1c52a7e43d8b2e8c5f2249134752585bbe1433"
+    },
+    {
+      "id": 6,
+      "title": "补上边界和例外",
+      "file": "references/methods/01-judgment.md",
+      "variants": "补一句边界提醒、补反面例外、补一句客观说明、使用提醒收尾。",
+      "materials": "正文判断的真实边界。",
+      "source_refs": [
+        "sources/community/xiaoe-e2568584d78417f5",
+        "cases/community_template/xiaoe-d2c1318652bfb8a6"
+      ],
+      "section_sha256": "5f6667d630db7cf44467b6de8f2fa2a592ee45ca4199618af3986608c5f93447"
+    },
+    {
+      "id": 7,
+      "title": "讲出自己的感悟，或拿经历作证",
+      "file": "references/methods/01-judgment.md",
+      "variants": "讲出感悟、感悟收尾、拿自己做证明、以自身经历作证、重来还会这么选、自曝后升值、释怀收尾、收在成长变化上。",
+      "materials": "真实经历；讲变化还需有真实的后续变化，作证则需说明经历与观点的关系。",
+      "source_refs": [
+        "sources/community/xiaoe-aab2287e161516e8",
+        "sources/community/zsxq-14425422445581252"
+      ],
+      "section_sha256": "66e9ed8c3c242a61c1f1387ad602d52a3a7b7afc4e9ae952f0fbf5deee7c1b67"
+    },
+    {
+      "id": 8,
+      "title": "亮明自己的态度和原则",
+      "file": "references/methods/01-judgment.md",
+      "variants": "表态立人设、亮明创作者立场、亮明态度立人设、宣泄情绪收尾、替弱者说话。",
+      "materials": "已解释的理由，和作者真正愿意承担的立场。",
+      "source_refs": [
+        "sources/community/xiaoe-6c8640167413c9a5",
+        "sources/community/zsxq-82258225184888812"
+      ],
+      "section_sha256": "e12b6dbf4bd60c7bef82ca9a510262ece12b4e66a7ecea56425c81ab42ba6915"
+    },
+    {
+      "id": 9,
+      "title": "给一句有来处的安慰或愿望",
+      "file": "references/methods/01-judgment.md",
+      "variants": "祝福或安慰收尾、自我鼓励收尾、承认可能失败再打气、给希望感、给希望收尾、朴素愿望收尾、坦承不完美致谢。",
+      "materials": "正文里的具体处境，以及说话人真实的感受。",
+      "source_refs": [
+        "sources/community/zsxq-22258844542158511",
+        "sources/community/zsxq-22255155251212581"
+      ],
+      "section_sha256": "405326630205d7e5978a2d1fed843f2d3a549fca2df4b69e8ccad5e2567a9d6f"
+    },
+    {
+      "id": 10,
+      "title": "交代结果，让这件事有个落点",
+      "file": "references/methods/01-judgment.md",
+      "variants": "结尾亮出结果、交代愿望结果、交代逆袭结果、结局给爽点、结尾算一笔账、最后亮成果、结果画面收尾。",
+      "materials": "真实结果、完整口径或可展示的成品。",
+      "source_refs": [
+        "sources/community/zsxq-45548558181445418",
+        "sources/course/xuehui-70af13cc0ae8b1fb"
+      ],
+      "section_sha256": "3e73e0580dccc97b1731e988a20b3828f50980f0edd1519dcc6c28dae4e7f7cc"
+    },
+    {
+      "id": 11,
+      "title": "最后转一下，让前面有了新意思",
+      "file": "references/methods/02-aftertaste.md",
+      "variants": "反转、戏剧化收尾。",
+      "materials": "能回头对得上铺垫的真实转折；演绎须按当前任务说明。",
+      "source_refs": [
+        "sources/community/zsxq-22255152852284821",
+        "sources/community/xiaoe-62d529232ab9de56"
+      ],
+      "section_sha256": "0cabff5a0bd45b1333e87466954b415a47881952df46ffaf8ff5590aee6ea708"
+    },
+    {
+      "id": 12,
+      "title": "用反话或自嘲收住",
+      "file": "references/methods/02-aftertaste.md",
+      "variants": "反话收尾、嘴硬评价收尾、自嘲式升华。",
+      "materials": "观众能明显分清字面和真实意思的上下文。",
+      "source_refs": [
+        "sources/community/xiaoe-0034b08cdb0ac1c9",
+        "sources/community/xiaoe-8dd54f2ab11685e1"
+      ],
+      "section_sha256": "6bccb0297ac3bdea9f99aa332d6ac6114a148aecb873bbf957187ae298a396d0"
+    },
+    {
+      "id": 13,
+      "title": "正片说完，再给一个小彩蛋",
+      "file": "references/methods/02-aftertaste.md",
+      "variants": "彩蛋、彩蛋收尾、结尾彩蛋。",
+      "materials": "确有其事、不会抢走主线的额外素材。",
+      "source_refs": [
+        "sources/community/zsxq-14425452441282552",
+        "sources/community/zsxq-82258252881412212"
+      ],
+      "section_sha256": "b030874e43d5a7fb27f4b38630cc014dcc7485581e5efc6701dd743ada4fee70"
+    },
+    {
+      "id": 14,
+      "title": "留一个确实还没结束的悬念",
+      "file": "references/methods/02-aftertaste.md",
+      "variants": "留悬念。",
+      "materials": "真实未完的进展，或已计划继续追踪的问题。",
+      "source_refs": [
+        "sources/community/zsxq-22258254481185251"
+      ],
+      "section_sha256": "6c8ded3a7c2619404120ea500ad8f217bebb80813237eb8b87ef74d8f3a0c1f6"
+    },
+    {
+      "id": 15,
+      "title": "停在真实现状，允许没有答案",
+      "file": "references/methods/02-aftertaste.md",
+      "variants": "停在真实现状、承认无解收尾、承认还想要、结尾留白。",
+      "materials": "故事的真实当前状态。",
+      "source_refs": [
+        "sources/community/zsxq-55521152545151254",
+        "sources/community/zsxq-82255411815248422"
+      ],
+      "section_sha256": "905d2f06e31200a96ed6b6e7101cbb14a47ee7c89129aa31b938874eb663c637"
+    },
+    {
+      "id": 16,
+      "title": "用人物原话、物件或旧照片收住",
+      "file": "references/methods/02-aftertaste.md",
+      "variants": "回忆录式结尾、物件回扣、物件意义加码、借他人原话收尾、用顾客原话收尾、用对方回应收尾、让对方夸一句收尾、让角色说出道理、让弱者说总结、让弱势方说总结、落到人物身上。",
+      "materials": "真实原话或确实存在、前文交代过的物件和影像。",
+      "source_refs": [
+        "sources/community/zsxq-22258822885284281",
+        "sources/community/zsxq-55522822528422884"
+      ],
+      "section_sha256": "1fb20298a47cfba72c1c364820d67c31000e119e3a244cf61f749eb100347f67"
+    },
+    {
+      "id": 17,
+      "title": "问一个紧贴主题的问题",
+      "file": "references/methods/03-engagement.md",
+      "variants": "开放式提问、反问收尾、反问观众收尾、引导评论、邀请留言。",
+      "materials": "正文自然留下的可讨论问题。",
+      "source_refs": [
+        "sources/community/xiaoe-8d11160ce80e0b4c",
+        "sources/community/xiaoe-22a1926cfb5700e6"
+      ],
+      "section_sha256": "4d6fc483128d5a206fcc33fb304cf0050d68a2c805380e07071e16eee68d6f12"
+    },
+    {
+      "id": 18,
+      "title": "摆出具体选项，请观众选",
+      "file": "references/methods/03-engagement.md",
+      "variants": "让观众站队、让观众出主意。",
+      "materials": "确实存在的选项与选择条件。",
+      "source_refs": [
+        "sources/community/xiaoe-4cbdf512a9366fdf",
+        "sources/community/xiaoe-7b97a9eb8fbdb443"
+      ],
+      "section_sha256": "c62cf56c5beda6e4c98100b61f44e8c3ba104999a7a72909ab1a4a814d558329"
+    },
+    {
+      "id": 19,
+      "title": "请有同样经历的人接着说",
+      "file": "references/methods/03-engagement.md",
+      "variants": "邀请分享经历、共鸣句收尾。",
+      "materials": "这条已经讲具体的共同处境。",
+      "source_refs": [
+        "sources/community/zsxq-14425544551488452",
+        "sources/community/zsxq-82258825224515452"
+      ],
+      "section_sha256": "5d3349087453e432fad7b60db13900d236dcf39a44faebeb1dce1076e3184ad8"
+    },
+    {
+      "id": 20,
+      "title": "请观众帮忙、点评或试一试",
+      "file": "references/methods/03-engagement.md",
+      "variants": "请观众帮个小忙、向观众求助、自己试完求点评、请观众点评、发起评论区挑战、请观众发来帮他改。",
+      "materials": "能展示的对象，或你确实接得住的反馈。",
+      "source_refs": [
+        "sources/community/zsxq-82258822885888282",
+        "sources/community/zsxq-22258281445525581"
+      ],
+      "section_sha256": "e40baac248c48235bcf003f2c8530b33805dd214c839742faee7513cc41b64ab"
+    },
+    {
+      "id": 21,
+      "title": "顺着已有约定提醒点赞",
+      "file": "references/methods/03-engagement.md",
+      "variants": "引导点赞。",
+      "materials": "这条实际完成的内容或前面说好的约定。",
+      "source_refs": [
+        "sources/course/xuehui-322f262b8c5f52de"
+      ],
+      "section_sha256": "355bde08949383ae8a146f0293b0eb883c83c6c9c88c7141f4540c10ce0ecde8"
+    },
+    {
+      "id": 22,
+      "title": "说清关注以后还能得到什么",
+      "file": "references/methods/04-follow.md",
+      "variants": "引导关注、交代账号价值。",
+      "materials": "账号真会持续提供的内容。",
+      "source_refs": [
+        "sources/community/xiaoe-001dd3ef0b13a205",
+        "sources/community/zsxq-22258818881551111"
+      ],
+      "section_sha256": "240b0793e0c92eea29aa3e89ad3a7ab86c252cd114e5680f35cc7fa25c9f5f2f"
+    },
+    {
+      "id": 23,
+      "title": "告诉观众为什么值得收藏或转给谁",
+      "file": "references/methods/04-follow.md",
+      "variants": "引导收藏、引导转发。",
+      "materials": "可重复使用的步骤、清单或明确的分享对象。",
+      "source_refs": [
+        "sources/community/xiaoe-53e9a5351d2ce8fc",
+        "sources/community/xiaoe-33b33ff6dedaecff"
+      ],
+      "section_sha256": "1cc849027c36c555cd4346be1c6e484abffd6f939d433c30a16faf0134f768ef"
+    },
+    {
+      "id": 24,
+      "title": "预告下一期，或接到已有内容",
+      "file": "references/methods/04-follow.md",
+      "variants": "预告下一期、下期见、说下期见、引导看往期。",
+      "materials": "已经存在的内容，或确实计划继续做的题目。",
+      "source_refs": [
+        "sources/community/xiaoe-fc93040659e504ad",
+        "sources/community/zsxq-14425511524554122"
+      ],
+      "section_sha256": "038a88f20b8e95c1a5eb933f6c8ae422ae2c91895603dc634353f3c33a41ef46"
+    },
+    {
+      "id": 25,
+      "title": "公开一个目标，请大家见证",
+      "file": "references/methods/04-follow.md",
+      "variants": "公开目标请见证。",
+      "materials": "真实目标、时间范围，以及能持续记录的过程。",
+      "source_refs": [
+        "sources/community/xiaoe-a3cc63ede104423a"
+      ],
+      "section_sha256": "af4ee68c1f002dbc3c16f3fc0f68a47fd6a0b8b23c5d3bdbe643b530468649b2"
+    },
+    {
+      "id": 26,
+      "title": "明确告诉有需要的人怎么买",
+      "file": "references/methods/05-conversion.md",
+      "variants": "引导下单、只给一个下一步。",
+      "materials": "可用购买入口、明确产品和真实条件。",
+      "source_refs": [
+        "sources/community/xiaoe-6d6f11f7660f53d3",
+        "sources/community/xiaoe-f05c51af7db81b62"
+      ],
+      "section_sha256": "69c9ee301972e63db7b5c3181e05e8a9bf7e435a2d7891c6303b57c66efecf2f"
+    },
+    {
+      "id": 27,
+      "title": "邀请咨询、合作联系或表达意向",
+      "file": "references/methods/05-conversion.md",
+      "variants": "引导私信、推出自己引咨询、亮身份引咨询、征集意向留言、让想要的人评论。",
+      "materials": "真实能力、服务或合作范围，以及能接住联系的入口。",
+      "source_refs": [
+        "sources/community/xiaoe-13c730b7b361a3d9",
+        "sources/community/zsxq-55521144111542124"
+      ],
+      "section_sha256": "531234e3439ee238259fcac7bf3659379060227dbf206632411a382e0c7345cc"
+    },
+    {
+      "id": 28,
+      "title": "给补充资料，并说清领取方式",
+      "file": "references/methods/05-conversion.md",
+      "variants": "引导领资料、结尾送福利、福利放评论区、评论区领资料。",
+      "materials": "已经准备好的资料或确实可兑现的福利。",
+      "source_refs": [
+        "sources/community/xiaoe-6870c2141b673b22",
+        "sources/course/xuehui-4448c2eec08c3188"
+      ],
+      "section_sha256": "120cd89d6b5699753b88692797e26f4722707a6958aec640e0919b40db7bc562"
+    },
+    {
+      "id": 29,
+      "title": "邀请到店或进入直播间",
+      "file": "references/methods/05-conversion.md",
+      "variants": "邀请到店、引导进直播间。",
+      "materials": "真实地点或正在运行的直播入口。",
+      "source_refs": [
+        "sources/community/xiaoe-7dca690d253bc871",
+        "sources/community/zsxq-45548854444542188"
+      ],
+      "section_sha256": "5dcdccbdb0d134713879ef05c19fbdf42cc5a923dd5e4a12217d9d5ab1c6fd1a"
+    },
+    {
+      "id": 30,
+      "title": "把产品接回刚讲过的需要",
+      "file": "references/methods/05-conversion.md",
+      "variants": "结尾植入产品、顺势种草产品、结尾再露广告、描绘用后效果。",
+      "materials": "与前文相关的产品和可证明的对应关系。",
+      "source_refs": [
+        "sources/community/xiaoe-0490bc3139811b1f",
+        "sources/community/zsxq-14425458188181512"
+      ],
+      "section_sha256": "d864be79517fe0d2ff075215ff198bb64d7dfdadfea7c8edf995a30116de341b"
+    },
+    {
+      "id": 31,
+      "title": "说清适合谁，也允许不适合",
+      "file": "references/methods/05-conversion.md",
+      "variants": "点明适合人群、反向筛选客户。",
+      "materials": "真实使用条件和服务边界。",
+      "source_refs": [
+        "sources/community/xiaoe-c77a5f0db912608c",
+        "sources/community/xiaoe-192d8c43f403f0a5"
+      ],
+      "section_sha256": "7baac44b22a7188ad4b0a116d05f7278269601b6d97dced81908d2dcdba8364f"
+    },
+    {
+      "id": 32,
+      "title": "用真实效果、顾客感受或优势作最后佐证",
+      "file": "references/methods/05-conversion.md",
+      "variants": "成果展示收尾、用户口吻背书、顾客感受收尾、最后亮独家优势、亮出独家优势、权威背书收尾、亮出品质承诺。",
+      "materials": "有依据的效果、原话或优势。",
+      "source_refs": [
+        "sources/community/xiaoe-6ac1ac5516ec2690",
+        "cases/community_template/xiaoe-22a1926cfb5700e6"
+      ],
+      "section_sha256": "46c8953da885a1b1a171cdea5113486d18668ac667d68186f9468df2240ff94e"
+    },
+    {
+      "id": 33,
+      "title": "用固定结束语让人记住你",
+      "file": "references/methods/06-signature.md",
+      "variants": "固定结束语、自报家门收尾。",
+      "materials": "作者自己的身份与稳定主张。",
+      "source_refs": [
+        "sources/community/xiaoe-145ca99ab05c0903",
+        "sources/course/xuehui-80ce94f4ee722240"
+      ],
+      "section_sha256": "e680d1525773bc4556afd674fac01a8792ecbfea491a045fcf6b2796d61876c5"
+    }
+  ],
+  "referenced_source_slugs": [
+    "cases/community_template/xiaoe-22a1926cfb5700e6",
+    "cases/community_template/xiaoe-d2c1318652bfb8a6",
+    "sources/community/xiaoe-001dd3ef0b13a205",
+    "sources/community/xiaoe-0034b08cdb0ac1c9",
+    "sources/community/xiaoe-0490bc3139811b1f",
+    "sources/community/xiaoe-13c730b7b361a3d9",
+    "sources/community/xiaoe-145ca99ab05c0903",
+    "sources/community/xiaoe-192d8c43f403f0a5",
+    "sources/community/xiaoe-22a1926cfb5700e6",
+    "sources/community/xiaoe-33b33ff6dedaecff",
+    "sources/community/xiaoe-4cbdf512a9366fdf",
+    "sources/community/xiaoe-53e9a5351d2ce8fc",
+    "sources/community/xiaoe-62d529232ab9de56",
+    "sources/community/xiaoe-6870c2141b673b22",
+    "sources/community/xiaoe-6ac1ac5516ec2690",
+    "sources/community/xiaoe-6c8640167413c9a5",
+    "sources/community/xiaoe-6d6f11f7660f53d3",
+    "sources/community/xiaoe-7b97a9eb8fbdb443",
+    "sources/community/xiaoe-7dca690d253bc871",
+    "sources/community/xiaoe-8243045c8e0430fc",
+    "sources/community/xiaoe-8d11160ce80e0b4c",
+    "sources/community/xiaoe-8dd54f2ab11685e1",
+    "sources/community/xiaoe-98f8435173479669",
+    "sources/community/xiaoe-a3cc63ede104423a",
+    "sources/community/xiaoe-aab2287e161516e8",
+    "sources/community/xiaoe-c77a5f0db912608c",
+    "sources/community/xiaoe-e2568584d78417f5",
+    "sources/community/xiaoe-f05c51af7db81b62",
+    "sources/community/xiaoe-fc93040659e504ad",
+    "sources/community/zsxq-14425422445581252",
+    "sources/community/zsxq-14425441511424422",
+    "sources/community/zsxq-14425452441282552",
+    "sources/community/zsxq-14425458188181512",
+    "sources/community/zsxq-14425511524554122",
+    "sources/community/zsxq-14425544551488452",
+    "sources/community/zsxq-22255152852284821",
+    "sources/community/zsxq-22255155251212581",
+    "sources/community/zsxq-22258254481185251",
+    "sources/community/zsxq-22258281445525581",
+    "sources/community/zsxq-22258818412412851",
+    "sources/community/zsxq-22258818881551111",
+    "sources/community/zsxq-22258822885284281",
+    "sources/community/zsxq-22258844542158511",
+    "sources/community/zsxq-45548558181445418",
+    "sources/community/zsxq-45548814185188448",
+    "sources/community/zsxq-45548854444542188",
+    "sources/community/zsxq-55521144111542124",
+    "sources/community/zsxq-55521148115241884",
+    "sources/community/zsxq-55521152545151254",
+    "sources/community/zsxq-55522822528422884",
+    "sources/community/zsxq-82255411815248422",
+    "sources/community/zsxq-82258225184888812",
+    "sources/community/zsxq-82258252881412212",
+    "sources/community/zsxq-82258822481111522",
+    "sources/community/zsxq-82258822885888282",
+    "sources/community/zsxq-82258825224515452",
+    "sources/course/xuehui-322f262b8c5f52de",
+    "sources/course/xuehui-4448c2eec08c3188",
+    "sources/course/xuehui-70af13cc0ae8b1fb",
+    "sources/course/xuehui-80ce94f4ee722240"
+  ],
+  "fetched_pages": [
+    {
+      "slug": "concepts/ending",
+      "title": "结尾",
+      "source_content_hash": "dab2e310665a65bb75bc26cb0cd848a15994255ca65f531624f19f068fb89b78",
+      "compiled_truth_sha256": "740867103e46482f0435b36308018ab36dc9b669bb619fa4a837dbf730524143",
+      "source_refs_present": false
+    },
+    {
+      "slug": "concepts/ending_quick",
+      "title": "结尾速查",
+      "source_content_hash": "fefb5d17a7bb0390643b7dcb92cc2d1075b7ae92392edf58f33c2636e46628d9",
+      "compiled_truth_sha256": "34d0cd45dfe389703673168a8d49d5a0bc5b46e4d588602d82fda24c08132f7c",
+      "source_refs_present": false
+    },
+    {
+      "slug": "sources/community/xiaoe-0034b08cdb0ac1c9",
+      "title": "153.超级凡尔赛-我姐40岁 未结婚 真的很孤独",
+      "source_content_hash": "95bc561cc9bf0d8339ad34f373aad5acb2cdf6b908385c604e3252b5890c9d08",
+      "compiled_truth_sha256": "60737d38a9ea09da04507a8ac15d2c892f0a793aa20da65263bca8b2e0575736",
+      "source_refs_present": true
+    },
+    {
+      "slug": "sources/community/xiaoe-145ca99ab05c0903",
+      "title": "4.爆款呈现-情景再现",
+      "source_content_hash": "666ff479ae98d51ea8c563731c15b1849807978154c6532354183611de72aba6",
+      "compiled_truth_sha256": "0e34251bf96c5b89a38041e13b6877d3f55c7493ffad39d2335da53a156e917e",
+      "source_refs_present": true
+    },
+    {
+      "slug": "sources/community/xiaoe-22a1926cfb5700e6",
+      "title": "22. 引流种草-在成都花9800请一个99年的育儿师（2/2）",
+      "source_content_hash": "f4bcf0c216a5c5e04e01d209496583794906e5824f1a7ea08b09a35a8fdbc471",
+      "compiled_truth_sha256": "aba3c62ea68129215e0782deee3c90bc6b60becd23e29d8d5cab69c8c1601f0d",
+      "source_refs_present": true
+    },
+    {
+      "slug": "sources/community/xiaoe-aab2287e161516e8",
+      "title": "182.现象批判-到底为什么现在遍地都是这种工作",
+      "source_content_hash": "ce24637330af27bf3977fa91cebacc07c1c377a62832ded445b7fea7a8376710",
+      "compiled_truth_sha256": "f0f05c6182bb4eadcc16bc6a2eda555096e1da6ab81c29a104067c67048689d9",
+      "source_refs_present": true
+    },
+    {
+      "slug": "sources/community/zsxq-14425441511424422",
+      "title": "ABBA-我婆婆的好脾气都是装出来的",
+      "source_content_hash": "a1173702ff3d5b6aca7dcced6c598e004bf46164d66a5a6ffc825c2720b9c9f1",
+      "compiled_truth_sha256": "940fbc48a3455353ef58b42680c1c7d44f946b54170b013af4d8c6c3a20ec151",
+      "source_refs_present": true
+    },
+    {
+      "slug": "sources/community/zsxq-22255152852284821",
+      "title": "假意劝退-千万别把火龙果的种子直接放在水里",
+      "source_content_hash": "0a88171585eac976c8f83688eaad67fe2bfd0b258960cc21158eb8e1164df765",
+      "compiled_truth_sha256": "409ead04c6cb07110578f0ef5ab74db5f295d4e1aa236009be5488ae7c315f47",
+      "source_refs_present": true
+    },
+    {
+      "slug": "sources/community/zsxq-22258254481185251",
+      "title": "第16篇｜暴力起号靠系列，而不是靠偶然一条爆火",
+      "source_content_hash": "edd9c74d6411df3bce7dce42631875542084ebd70664f15bdb2626048565211d",
+      "compiled_truth_sha256": "82490e5626a8ef5c45eb0c64739f94f37d18b68471ac904d4ab401da604a37da",
+      "source_refs_present": true
+    },
+    {
+      "slug": "sources/community/zsxq-22258822885284281",
+      "title": "跟孙宇晨学写文案，十个技巧，够普通人练一辈子",
+      "source_content_hash": "3b1aca72fe3fe7561713aadacbcc26b461178c54738a692a6625fc39029480ed",
+      "compiled_truth_sha256": "ab356383cb0af59350f2bf3ead5e837a0740825b8fcabcdbaa7c70e6432fbe21",
+      "source_refs_present": true
+    },
+    {
+      "slug": "sources/community/zsxq-22258844542158511",
+      "title": "第35章：爆款选题结构-人群共鸣-某个职业/身份到底有多累/惨",
+      "source_content_hash": "77be0300f97b145c777736ffdc72f65cf98e8a507a7ccef5ff7a6f28f4f85937",
+      "compiled_truth_sha256": "1d1e0838e484b691616b81b7db2f1c3df1228c15d1eb712b00ab2a7bd5e2c902",
+      "source_refs_present": true
+    },
+    {
+      "slug": "sources/community/zsxq-45548814185188448",
+      "title": "第41章：爆款开篇结构-人群共鸣-我快三十岁的时候才意识到 一个女生没有大牌包 有时候真的会尴尬",
+      "source_content_hash": "4d383617ef97d75a6045af4f0e4047eb8b2e83ba92a854f672f1f8184fc50579",
+      "compiled_truth_sha256": "c7578ed2259ddb6bbde8ce56ea3d10f084ae77831323a8bb0a6c3721a7ac8b87",
+      "source_refs_present": true
+    },
+    {
+      "slug": "sources/community/zsxq-55521144111542124",
+      "title": "11.我为什么可以给各行各业去做商业策划",
+      "source_content_hash": "03bd9e92b4c9e20370858f4cf66fbcf8e84d9c0b4c3349e38aa977003831d862",
+      "compiled_truth_sha256": "45cef776fa795aa9fdfaf7cd9a57796dab3bfaea18c0059efa14c4d4a2ce510d",
+      "source_refs_present": true
+    },
+    {
+      "slug": "sources/community/zsxq-55521152545151254",
+      "title": "第26章：爆款选题结构-经历共鸣-我发现 + 我再也 + 「做不成某件事了」",
+      "source_content_hash": "13c1aed9a3c92dfa61301e2129c9aabd0c3eb7abda8aaa2f6b57c35c87ccdd52",
+      "compiled_truth_sha256": "9cc58f1c4844d3ce04739146b3eab506fe43e069c2fae8c1bf5fb5b6779cef0e",
+      "source_refs_present": true
+    },
+    {
+      "slug": "workflows/creation_teacher",
+      "title": "自媒体创作老师",
+      "source_content_hash": "d6cc8e4a351a8ab4521ec59840640e65a2507a8bad8e166d203ac8a9c38e9577",
+      "compiled_truth_sha256": "1e3ace5d91b01c3325d7be3055cf7cb1e0a862dd046f2760962d48873da7e27d",
+      "source_refs_present": false
+    }
+  ]
+}
